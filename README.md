@@ -1,5 +1,5 @@
 <p align='center'>/ xmnlp /</p>
-<p align='center'>小明 NLP — 轻量级中文自然语言处理工具</p>
+<p align='center'>wordcloud生成关键词云图</p>
 <p align='center'> A Lightweight Chinese Natural Language Processing Toolkit</p>
 <p align='center'>v 0.2.3</p>
 
